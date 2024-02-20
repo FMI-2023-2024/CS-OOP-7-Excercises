@@ -17,4 +17,4 @@
 - Сравнение на две дроби (lt, lte, e, gt, gte)
 
 [GitHub Classroom](https://classroom.github.com/classrooms/146669068-fmi-2023-2024-oop-excercies-6-19-02-classroom)
-[Примерно решение](https://onlinegdb.com/PszaZR0yF)
+[Примерно решение](https://onlinegdb.com/hpkjTdeIM)
