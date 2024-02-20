@@ -16,5 +16,5 @@
 - Деление
 - Сравнение на две дроби (lt, lte, equal, gt, gte)
 
-[GitHub Classroom](https://classroom.github.com/classrooms/146669068-fmi-2023-2024-oop-excercies-6-19-02-classroom)
+[GitHub Classroom](https://classroom.github.com/classrooms/146669068-fmi-2023-2024-oop-excercies-6-19-02-classroom/assignments/intro-to-structures-in-c)
 [Примерно решение](https://onlinegdb.com/hpkjTdeIM)
