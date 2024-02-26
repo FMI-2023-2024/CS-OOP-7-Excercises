@@ -30,4 +30,4 @@
 - Прочитане на country
 - Промяна на country
 
-[GitHub Classroom](https://classroom.github.com/classrooms/146669068-fmi-2023-2024-oop-excercies-6-26-02-classroom/assignments/intro-to-classes-in-c)
+[GitHub Classroom](https://classroom.github.com/a/gsbboq-m)
