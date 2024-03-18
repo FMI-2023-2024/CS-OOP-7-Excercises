@@ -15,4 +15,4 @@
 - Достъп до елемент по индекс
 - Изчисляване големината на дадения вектор
 
-[GitHub Classroom](https://classroom.github.com/a/wPkyEl-Z)
+[GitHub Classroom](https://classroom.github.com/a/22caX6yq)
