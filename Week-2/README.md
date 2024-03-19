@@ -1,7 +1,7 @@
 ## Ресурси
 
 - [C++ classes & objects](https://www.geeksforgeeks.org/c-classes-and-objects/)
-- [Access modifiers in C++](https://www.geeksforgeeks.org/access-modifiers-in-c/)
+- [Access modifiers](https://www.geeksforgeeks.org/access-modifiers-in-c/)
 
 ## Задачи
 
