@@ -2,6 +2,12 @@
 
 - [C++ classes & objects](https://www.geeksforgeeks.org/c-classes-and-objects/)
 - [Access modifiers in C++](https://www.geeksforgeeks.org/access-modifiers-in-c/)
+- [Constructors](https://www.geeksforgeeks.org/constructors-c)
+- [Copy constructor](https://www.geeksforgeeks.org/copy-constructor-in-cpp)
+- [Destructors](https://www.geeksforgeeks.org/destructors-c)
+- [Assignment opereator](https://www.geeksforgeeks.org/cpp-assignment-operators)
+- [Copy constructor vs assignment operator](https://www.geeksforgeeks.org/copy-constructor-vs-assignment-operator-in-c)
+
 
 ## Задачи
 
