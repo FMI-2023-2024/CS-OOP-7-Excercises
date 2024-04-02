@@ -6,7 +6,7 @@
 
 #### Задача 1
 
-Използвайки [примерното решение](https://www.onlinegdb.com/Z2uWwgBwp) на задачата от [седмица 4](https://github.com/FMI-2023-2024/CS-OOP-7-Excercises/tree/main/Week-4) - да се напише:
+Използвайки [примерното решение](https://www.onlinegdb.com/60hCDTeSH) на задачата от [седмица 4](https://github.com/FMI-2023-2024/CS-OOP-7-Excercises/tree/main/Week-4) - да се напише:
 
 - функция `save` - която позволява записването на вектор в двоичен файл
 - функция `load` - която позволява зареждането на вектор от съществуващ двоичен файл
