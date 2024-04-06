@@ -4,7 +4,7 @@
 
 ## Задачи
 
-#### Задача 1
+#### Задача 1 ([примерно решение](https://onlinegdb.com/4biqmDwoQ))
 
 Използвайки [примерното решение](https://www.onlinegdb.com/60hCDTeSH) на задачата от [седмица 4](https://github.com/FMI-2023-2024/CS-OOP-7-Excercises/tree/main/Week-4) - да се напише:
 
