@@ -13,6 +13,6 @@
 - ре-имплементация на `operator ==` която проверява за равенство на два вектора, посредством сравнение на елементите им (`bool operator==(MyVector const &) const`)
 - ре-имплементация на `operator []` която позволява достъп/промяна на елемент на вектора по индекс (`MyVector & operator[](size_t)`)
 - ре-имплементация на `operator <<` която позволява извеждане на елементите на вектор в [CSV формат](https://en.wikipedia.org/wiki/Comma-separated_values) (`std::ostream & operator<<(std::ostream &, MyVector const &)`)
-- ре-имплементация на `operator >>` която позволява въвеждане на елементите на вектор в [CSV формат](https://en.wikipedia.org/wiki/Comma-separated_values) (`std::istream & operator>>(std::istream &, MyVector& )`)
+- ре-имплементация на `operator >>` която позволява въвеждане на елементите на вектор в [CSV формат](https://en.wikipedia.org/wiki/Comma-separated_values) (`std::istream & operator>>(std::istream &, MyVector &)`)
 
 [GitHub Classroom](https://classroom.github.com/a/DoN4mX4D)
