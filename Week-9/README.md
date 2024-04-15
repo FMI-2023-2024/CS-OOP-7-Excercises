@@ -12,7 +12,7 @@
 - функция `push` за добавяне на елемент в края (`void push(int) const`)
 - функция `len` за връщане на текущия брой елементи в опашката (`int len() const`)
 - функция `peek` за връщане на текущия връх на опашката, без да го премахва (`int peek() const`)
-- ре-имплементация на `operator +=` която позволява добавяне на елемент в края на опашката (`MyQueue& operator+=(MyQueue&, int)`)
+- ре-имплементация на `operator +=` която позволява добавяне на елемент в края на опашката (`MyQueue& operator+=(int)`)
 - ре-имплементация на `operator ==` която проверява за равенство на две опашки, посредством сравнение на елементите им (`bool operator==(MyQueue const &) const`)
 - ре-имплементация на `operator bool` който връща `false` при условие, че опашката няма нито един елемент, `true` във всички останали случаи (`operator bool() const`)
 - ре-имплементация на `operator <<` която позволява извеждане на елементите на опашка в [CSV формат](https://en.wikipedia.org/wiki/Comma-separated_values) (`std::ostream & operator<<(std::ostream &, MyQueue const &)`)
